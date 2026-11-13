@@ -54,5 +54,5 @@ A SaaS platform concept designed for transportation businesses.
 
 ## 🤝 Let's Connect
 
-I'm open to learning opportunities, collaboration, and junior developer positions.
+I'm open to learning opportunities, collaboration, and junior developer positions..
 
